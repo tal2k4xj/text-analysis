@@ -7,13 +7,12 @@
 3) Install Watson python SKD:
 ```
 pip install --upgrade "ibm-watson>=4.4.0"
-
 ```
 
 ## Step 1 - create Natural Language Service
 
-Go to the service creation page:
-https://cloud.ibm.com/catalog/services/natural-language-understanding
+Go to the [NLU service creation page](https://cloud.ibm.com/catalog/services/natural-language-understanding){:target="_blank"}.
+
 
 Select region "London" and click "Create".
 ![createnluservice](images/createnluservice.png)
