@@ -43,19 +43,19 @@ To read more about the features of this services and all other related contect g
 
 # Services Demo
 
-https://www.ibm.com/demos/live/natural-language-understanding/self-service/home
+Natural Language Understanding: https://www.ibm.com/demos/live/natural-language-understanding/self-service/home
 
-https://www.ibm.com/demos/live/watson-knowledge-studio/self-service/home
+Discovery: https://www.ibm.com/demos/live/discovery-expert-assist/self-service/home
 
-https://www.ibm.com/demos/live/discovery-expert-assist/self-service/home
+Knowledge Studio: https://www.ibm.com/demos/live/watson-knowledge-studio/self-service/home
 
 # Watson Services
 
-Discovery : https://cloud.ibm.com/catalog/services/discovery
+Discovery: https://cloud.ibm.com/catalog/services/discovery
 
-Natural Language Understanding : https://cloud.ibm.com/catalog/services/natural-language-understanding
+Natural Language Understanding: https://cloud.ibm.com/catalog/services/natural-language-understanding
 
-Knowledge Studio : https://cloud.ibm.com/catalog/services/knowledge-studio
+Knowledge Studio: https://cloud.ibm.com/catalog/services/knowledge-studio
 
 # Call for Code links
 
