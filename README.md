@@ -9,19 +9,19 @@
 pip install --upgrade "ibm-watson>=4.4.0"
 ```
 
-## Step 1 - create Natural Language Service
+### Step 1 - create Natural Language Service
 
 Go to the [NLU service creation page](https://cloud.ibm.com/catalog/services/natural-language-understanding)
 
 Select region "London" and click "Create".
 ![createnluservice](images/createnluservice.png)
 
-## Step 2 - get credentials to use the service
+### Step 2 - get credentials to use the service
 
 Select "Manage", copy the API Key and URL to use later on this demo and select the "API Reference".
 ![copycreds](images/copycreds.png)
 
-## Step 3 - get code example and execute the request
+### Step 3 - get code example and execute the request
 
 Select the "Python" language from the drop down list (if you prefer other language feel free to select it), click on the "Analyze text".
 ![analyzetext](images/analyzetext.png)
@@ -36,6 +36,10 @@ Paste you API Key and URL in the code example.
 
 Open your terminal and execute the file and see the results.
 ![executeterminal](images/executeterminal.png)
+
+### Step 4 - understand the results
+
+To read more about the features of this services and all other related contect go to this link: https://cloud.ibm.com/docs/services/natural-language-understanding
 
 # Services Demo
 
