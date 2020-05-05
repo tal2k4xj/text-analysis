@@ -11,8 +11,7 @@ pip install --upgrade "ibm-watson>=4.4.0"
 
 ## Step 1 - create Natural Language Service
 
-Go to the [NLU service creation page](https://cloud.ibm.com/catalog/services/natural-language-understanding){:target="_blank"}.
-
+Go to the [NLU service creation page](https://cloud.ibm.com/catalog/services/natural-language-understanding)
 
 Select region "London" and click "Create".
 ![createnluservice](images/createnluservice.png)
